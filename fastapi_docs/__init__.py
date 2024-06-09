@@ -1,0 +1,1 @@
+from fastapi_docs.main import app
