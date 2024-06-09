@@ -7,6 +7,7 @@ from req_model import ModelName, ItemModel
 
 
 app = FastAPI()
+# code for multiple model file
 
 items = {
     "foo": {"name": "Foo", "price": 50.2},
